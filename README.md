@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @BismahNaeem
-- 👀 I’m interested in coding
 - 🌱 I’m currently learning Typescript
   
 
